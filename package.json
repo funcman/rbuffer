@@ -1,0 +1,19 @@
+{
+    "name": "rbuffer"
+  , "author": "Hezekiah Ho (funcman) <hyq1986@gmail.com>"
+  , "version": "0.1.0"
+  , "description": "Ring Buffer for Node.js"
+  , "keywords": [
+         "ringbuffer"
+       , "buffer"
+       , "ring"
+       , "quene"
+    ]
+  , "license": "MIT"
+  , "repository": "git://github.com/funcman/rbuffer"
+  , "main": "./rbuffer.js"
+  , "engines": { "node": "*" }
+  , "dependencies": {
+    }
+}
+
